@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "153744555746",
+    "project_id": "testpushnotification-144107"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153744555746:android:5150bdc2e586497e",
+        "android_client_info": {
+          "package_name": "com.example.nick_.push_notification_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAxTKekEoIseDl2lNlbomNOFfj4Ys3mHI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
